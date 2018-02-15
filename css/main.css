@@ -185,6 +185,7 @@ ul {
 li a {
     color: #261151;
     font-family: 'Gravitas One', cursive;
+    text-decoration: none;
 }
 
 li a:hover {
@@ -265,6 +266,14 @@ li a:hover {
 
 .update a:hover {
     color: #16E2D8;
+}
+
+.equity-link {
+    font-size: 22px;
+}
+
+.show {
+    font-style: italic;
 }
 
 .bio {
@@ -398,6 +407,7 @@ h4 {
 
 .review {
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .review p {
