@@ -188,6 +188,7 @@ li a {
 }
 
 li a:hover {
+    color: #16E2D8;
     text-decoration: underline;
 }
 
@@ -556,28 +557,42 @@ h4 {
     text-align: center;
 }
 
-.byline a {
+.f-contact a {
     color: white;
+}
+
+.f-contact a:visited {
+    color: white;
+}
+
+.f-contact a:hover {
+    color: #16E2D8;
+}
+
+.byline a {
+    color: #7173BD;
+    font-size: 18px;
     text-decoration: none;
 }
 
 footer p {
     clear: both;
-    color: #261151;
-    font-size: 18px;
+    color: #7173BD;
+    font-size: 22px;
+    font-style: italic;
     /*font-family: 'Open Sans', sans-serif;*/
     padding: 10px 0;
-    text-decoration: none; 
     text-align: center;
 }
 
 footer a {
     color: #261151;
+    text-decoration: none; 
 }
 
-.f-contact .byline {
-    font-size: 16px;
-    font-style: italic;
+footer a:hover {
+    color: #16E2D8;
+    text-decoration: none; 
 }
 
 
