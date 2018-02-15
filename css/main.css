@@ -108,6 +108,10 @@ body {
     width: 100%;
 }
 
+a:hover {
+    color: #16E2D8;
+}
+
 .titles a {
     text-decoration: none;
 }
@@ -258,6 +262,14 @@ li a:hover {
     margin-top: 15px;
 }
 
+.update a:visited {
+    color: #261151;
+}
+
+.update a:hover {
+    color: #16E2D8;
+}
+
 .bio {
     color: white;
     line-height: 26px;
@@ -347,7 +359,7 @@ h4 {
     height: 100%; 
 }
 
-.top {
+/*.top {
     clear: both;
     font-size: 18px;
     margin: 0 1.5% 20px 1.5%;
@@ -368,6 +380,10 @@ h4 {
 .top a:visited {
     color: #261151;
 }
+
+.top a:hover {
+    color: #16E2D8;
+}*/
 
 .med-reviews {
     background-color: white;
@@ -393,6 +409,10 @@ h4 {
 
 .review a:visited {
     color: #261151;
+}
+
+.review a:hover {
+    color: #16E2D8;
 }
 
 .rev-title {
@@ -424,8 +444,12 @@ h4 {
     color: white;
 }
 
+.review-top a:hover {
+    color: #16E2D8;
+}
+
 .med-photos {
-    background-color: #9effeb;
+    background-color: #16E2D8;
     color: #261151;
     font-size: 14px;
     padding: 40px 9%;
@@ -459,6 +483,10 @@ h4 {
     color: white;
 }
 
+.photo-top a:hover {
+    color: #16E2D8;
+}
+
 /*sfys page*/
 
 .sfys-content {
@@ -486,7 +514,7 @@ h4 {
 }
 
 .sfys-content a:hover {
-    color: #9effeb;
+    color: #16E2D8;
     font-size: 16px;
 }
 
