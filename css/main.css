@@ -108,6 +108,10 @@ body {
     width: 100%;
 }
 
+.titles {
+    margin: 20px 0;
+}
+
 .titles a {
     text-decoration: none;
 }
@@ -682,7 +686,7 @@ footer a:hover {
 
     .titles {
         float: left;
-        margin: 125px 0 0 5%;
+        margin: 130px 0 0 5%;
         width: 45%;
     }
 
