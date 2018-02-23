@@ -365,32 +365,6 @@ h4 {
     height: 100%; 
 }
 
-/*.top {
-    clear: both;
-    font-size: 18px;
-    margin: 0 1.5% 20px 1.5%;
-    width: 30%;
-    background-color: white;
-    border: none;
-    border-radius: 20px;
-    color: #261151;
-    height: 40px;
-    line-height: 40px;
-    text-align: center;
-}
-
-.top a {
-    text-decoration: none;
-}
-
-.top a:visited {
-    color: #261151;
-}
-
-.top a:hover {
-    color: #16E2D8;
-}*/
-
 .med-reviews {
     background-color: white;
     color: #261151;
@@ -444,6 +418,7 @@ h4 {
 }
 
 .review-top a {
+    color: white;
     text-decoration: none;
 }
 
@@ -476,13 +451,13 @@ h4 {
     background-color: #7173BD;
     border: none;
     border-radius: 20px;
-    color: white;
     height: 40px;
     line-height: 40px;
     text-align: center;
 }
 
 .photo-top a {
+    color: white;
     text-decoration: none;
 }
 
@@ -707,12 +682,12 @@ footer a:hover {
 
     .titles {
         float: left;
-        margin: 70px 0 0 5%;
+        margin: 125px 0 0 5%;
         width: 45%;
     }
 
     .titles h1 {
-        font-size: ;
+        
     }
 
     .titles h2 {
@@ -753,7 +728,7 @@ footer a:hover {
 
     .navbar {
         float: left;
-        margin: 155px 0 0 0;
+        margin: 165px 0 0 0;
         padding: ;
         width: 25%;
     }
@@ -783,18 +758,18 @@ footer a:hover {
     }
 
     .about-tag p {
-        font-size: 25px;
+        font-size: 16px;
         color: white;
         float: left;
         line-height: 30px;
-        margin: 10.5% 0 11% 20px;
+        margin: 3% 0 0 20px;
         padding: 0;
         width: 40%;
     }
 
     .titles-sub {
         float: left;
-        margin: 35px 0 0 5%;
+        margin: 70px 0 0 5%;
         width: 60%;
     }
 
