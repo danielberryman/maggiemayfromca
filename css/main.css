@@ -273,10 +273,12 @@ li a:hover {
 }
 
 .equity-link {
+    color: #261151;
     font-size: 22px;
 }
 
 .show {
+    color: #261151;
     font-style: italic;
 }
 
@@ -308,7 +310,7 @@ li a:hover {
     line-height: 40px;
     text-align: center;
     text-decoration: none;
-    margin: 0 2.5% 30px 2.5%;
+    margin: 0 2.5% 0 2.5%;
     width: 45%;
 }
 
@@ -908,6 +910,10 @@ footer a:hover {
 
     footer {
         clear: both;
+    }
+
+    .hidden {
+        display: inline !important;
     }
 
 }
