@@ -680,7 +680,6 @@ footer a:hover {
 
     body {
         background-image: url("../img/desktop-bg.png");
-        /*background-repeat: no-repeat;*/
         background-size: 100%;
         width: 100%;
     }
