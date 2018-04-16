@@ -278,7 +278,6 @@ li a:hover {
 }
 
 .show {
-    color: #261151;
     font-style: italic;
 }
 
@@ -513,7 +512,7 @@ h4 {
 
 /*contact page*/
 
-.contact-content {
+/*.contact-content {
     padding: 20px 9%;
     width: 82%;
 }
@@ -527,11 +526,11 @@ h4 {
 
 .contact-content img {
     width: 75%;
-}
+}*/
 
-.contact-content p {
+/*.contact-content p {
     margin: 10px 0 30px 0;
-}
+}*/
 
 .f-contact {
     clear: both;
@@ -681,8 +680,8 @@ footer a:hover {
 
     body {
         background-image: url("../img/desktop-bg.png");
-        background-repeat: no-repeat;
-        background-size: contain;
+        /*background-repeat: no-repeat;*/
+        background-size: 100%;
         width: 100%;
     }
 
@@ -690,10 +689,6 @@ footer a:hover {
         float: left;
         margin: 130px 0 0 5%;
         width: 45%;
-    }
-
-    .titles h1 {
-        
     }
 
     .titles h2 {
@@ -873,24 +868,6 @@ footer a:hover {
         clear: both;
         margin-bottom: 50px;
         width: 10%;
-    }
-
-    .contact-content div {
-        float: left;
-        text-align: center;
-        width: 20%;
-    }
-
-    .contact-content img {
-        width: 50%;
-    }
-
-    .contact-content p {
-        margin: 10px 0 30px 0;
-    }
-
-    .navbar-contact {
-        margin: 82.5px 0 0 0;
     }
 
     .f-contact {
